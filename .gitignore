@@ -1,0 +1,26 @@
+# Default ignored files
+/.shelf/
+/workspace.xml
+
+# Cache and directory files
+.cache/
+.idea/
+.vscode/
+
+# Generated dependency files
+lib/
+*.jar
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE configuration files
+.settings/
+.classpath
+.project
+*.iml
+
+# Compiled output
+/out/
+/bin/
